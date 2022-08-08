@@ -1,0 +1,33 @@
+body{
+
+    background-image: url("Vintage-Carlzeiss-Camera-Wallpaper.webp");
+    background-size:cover;
+}
+
+.test{
+    background-color:rgba(206, 152, 3, 0.884);
+    color: white;
+    margin-top: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+
+button{
+    margin-top: 30px;
+    color: rgb(184, 184, 184);
+
+}
+
+#object{
+    margin-top: 20px;
+}
+
+canvas{
+
+    background-color: darkolivegreen;
+    border-style: ridge;
+    border-width: 10px;
+    box-shadow: 5px 5px grey;
+    border-color: rgb(139, 139, 139);
+}
